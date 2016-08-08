@@ -1,0 +1,29 @@
+{
+  "name": "restful-web-service",
+  "description": "arq. restful web service",
+  "main": "index.js",
+  "authors": [
+    "Renato Benkendorf"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "restful",
+    "webservice",
+    "application",
+    "api-rest",
+    "rest"
+  ],
+  "homepage": "https://github.com/renatobenks/school-challenge-restful",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}

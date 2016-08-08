@@ -1,0 +1,37 @@
+{
+  "name": "restful-web-service",
+  "version": "0.0.1",
+  "description": "arq. restful web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatobenks/school-challenge-restful.git"
+  },
+  "keywords": [
+    "restful",
+    "webservice",
+    "application",
+    "api-rest",
+    "rest"
+  ],
+  "author": "Renato Benkendorf",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/renatobenks/school-challenge-restful/issues"
+  },
+  "homepage": "https://github.com/renatobenks/school-challenge-restful#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "phantomjs": "^2.1.7",
+    "phantomjs-prebuilt": "^2.1.10"
+  }
+}
