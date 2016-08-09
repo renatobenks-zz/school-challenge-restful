@@ -1,4 +1,8 @@
-.idea/
-node_modules/
-bower_components/
+/node_modules
+/dist
+/.idea
+/.tmp
+/.sass-cache
+/bower_components
+app/public/styles/styles.css
 npm-debug.log
